@@ -72,6 +72,6 @@ This project demonstrates:
 * Deployment to cloud hosting
 
 ## Author
-Heliben Modi
-Computer Science Student
+Heliben Modi /
+Computer Science Student /
 Algoma University
