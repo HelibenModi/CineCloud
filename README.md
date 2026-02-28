@@ -5,7 +5,7 @@ CineCloud is a PHP-based MVC web application that allows users to search movies,
 ## Architecture
 
 The project follows a custom MVC structure:
-
+```
 cinecloud/
 │
 ├── app/
@@ -19,6 +19,7 @@ cinecloud/
 │   └── .htaccess
 │
 └── README.md
+```
 
 ## Tech Stack
 * PHP 
